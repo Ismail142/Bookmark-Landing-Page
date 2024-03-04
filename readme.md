@@ -1,1 +1,1 @@
-# Frontend Mentor - Bookmark landing page solution
+Bookmark landing page solution
