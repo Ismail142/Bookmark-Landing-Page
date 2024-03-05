@@ -16,7 +16,7 @@
 }
 
 .content.active {
-  @apply h-20
+  @apply md:h-20 h-40
 }
 
 .ficon:hover {

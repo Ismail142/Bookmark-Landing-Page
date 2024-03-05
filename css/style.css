@@ -1110,7 +1110,13 @@ video {
 }
 
 .content.active {
-  height: 5rem;
+  height: 10rem;
+}
+
+@media (min-width: 768px) {
+  .content.active {
+    height: 5rem;
+  }
 }
 
 .ficon:hover {
