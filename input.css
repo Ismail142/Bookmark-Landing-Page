@@ -16,7 +16,7 @@
 }
 
 .content.active {
-  @apply max-h-screen
+  @apply h-20
 }
 
 .ficon:hover {
